@@ -1,0 +1,423 @@
+C:\App\etsolution - 3\etproject\bin\etproject.dll.config
+C:\App\etsolution - 3\etproject\bin\etproject.dll
+C:\App\etsolution - 3\etproject\bin\etproject.pdb
+C:\App\etsolution - 3\etproject\bin\roslyn\csc.exe
+C:\App\etsolution - 3\etproject\bin\roslyn\csc.exe.config
+C:\App\etsolution - 3\etproject\bin\roslyn\csc.rsp
+C:\App\etsolution - 3\etproject\bin\roslyn\csi.exe
+C:\App\etsolution - 3\etproject\bin\roslyn\csi.exe.config
+C:\App\etsolution - 3\etproject\bin\roslyn\csi.rsp
+C:\App\etsolution - 3\etproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\App\etsolution - 3\etproject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\App\etsolution - 3\etproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\App\etsolution - 3\etproject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.AppContext.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Collections.Immutable.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Console.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Globalization.Calendars.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.IO.Compression.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.IO.FileSystem.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Net.Http.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Net.Sockets.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Reflection.Metadata.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.ValueTuple.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Xml.XPath.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\App\etsolution - 3\etproject\bin\roslyn\vbc.exe
+C:\App\etsolution - 3\etproject\bin\roslyn\vbc.exe.config
+C:\App\etsolution - 3\etproject\bin\roslyn\vbc.rsp
+C:\App\etsolution - 3\etproject\bin\roslyn\VBCSCompiler.exe
+C:\App\etsolution - 3\etproject\bin\roslyn\VBCSCompiler.exe.config
+C:\App\etsolution - 3\etproject\bin\Antlr3.Runtime.dll
+C:\App\etsolution - 3\etproject\bin\EntityFramework.dll
+C:\App\etsolution - 3\etproject\bin\EntityFramework.SqlServer.dll
+C:\App\etsolution - 3\etproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\App\etsolution - 3\etproject\bin\Microsoft.Web.Infrastructure.dll
+C:\App\etsolution - 3\etproject\bin\Newtonsoft.Json.dll
+C:\App\etsolution - 3\etproject\bin\System.Web.Helpers.dll
+C:\App\etsolution - 3\etproject\bin\System.Web.Mvc.dll
+C:\App\etsolution - 3\etproject\bin\System.Web.Optimization.dll
+C:\App\etsolution - 3\etproject\bin\System.Web.Razor.dll
+C:\App\etsolution - 3\etproject\bin\System.Web.WebPages.Deployment.dll
+C:\App\etsolution - 3\etproject\bin\System.Web.WebPages.dll
+C:\App\etsolution - 3\etproject\bin\System.Web.WebPages.Razor.dll
+C:\App\etsolution - 3\etproject\bin\WebGrease.dll
+C:\App\etsolution - 3\etproject\bin\EntityFramework.xml
+C:\App\etsolution - 3\etproject\bin\EntityFramework.SqlServer.xml
+C:\App\etsolution - 3\etproject\bin\System.Web.Helpers.xml
+C:\App\etsolution - 3\etproject\bin\System.Web.Mvc.xml
+C:\App\etsolution - 3\etproject\bin\System.Web.Optimization.xml
+C:\App\etsolution - 3\etproject\bin\System.Web.Razor.xml
+C:\App\etsolution - 3\etproject\bin\System.Web.WebPages.xml
+C:\App\etsolution - 3\etproject\bin\System.Web.WebPages.Deployment.xml
+C:\App\etsolution - 3\etproject\bin\System.Web.WebPages.Razor.xml
+C:\App\etsolution - 3\etproject\bin\Newtonsoft.Json.xml
+C:\App\etsolution - 3\etproject\bin\Antlr3.Runtime.pdb
+C:\App\etsolution - 3\etproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\App\etsolution - 3\etproject\obj\Debug\etproject.csprojAssemblyReference.cache
+C:\App\etsolution - 3\etproject\obj\Debug\etproject.csproj.CoreCompileInputs.cache
+C:\App\etsolution - 3\etproject\obj\Debug\etproject.csproj.CopyComplete
+C:\App\etsolution - 3\etproject\obj\Debug\etproject.dll
+C:\App\etsolution - 3\etproject\obj\Debug\etproject.pdb
+C:\App\etsolution - 4\etproject\obj\Debug\etproject.csprojAssemblyReference.cache
+C:\App\etsolution - 4\etproject\obj\Debug\etproject.csproj.CoreCompileInputs.cache
+C:\App\etsolution - 4\etproject\obj\Debug\etproject.dll
+C:\App\etsolution - 4\etproject\obj\Debug\etproject.pdb
+C:\App\etsolution - 4\etproject\bin\etproject.dll.config
+C:\App\etsolution - 4\etproject\bin\etproject.dll
+C:\App\etsolution - 4\etproject\bin\etproject.pdb
+C:\App\etsolution - 4\etproject\bin\roslyn\csc.exe
+C:\App\etsolution - 4\etproject\bin\roslyn\csc.exe.config
+C:\App\etsolution - 4\etproject\bin\roslyn\csc.rsp
+C:\App\etsolution - 4\etproject\bin\roslyn\csi.exe
+C:\App\etsolution - 4\etproject\bin\roslyn\csi.exe.config
+C:\App\etsolution - 4\etproject\bin\roslyn\csi.rsp
+C:\App\etsolution - 4\etproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\App\etsolution - 4\etproject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\App\etsolution - 4\etproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\App\etsolution - 4\etproject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.AppContext.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Collections.Immutable.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Console.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Globalization.Calendars.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.IO.Compression.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.IO.FileSystem.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Net.Http.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Net.Sockets.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Reflection.Metadata.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.ValueTuple.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Xml.XPath.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\App\etsolution - 4\etproject\bin\roslyn\vbc.exe
+C:\App\etsolution - 4\etproject\bin\roslyn\vbc.exe.config
+C:\App\etsolution - 4\etproject\bin\roslyn\vbc.rsp
+C:\App\etsolution - 4\etproject\bin\roslyn\VBCSCompiler.exe
+C:\App\etsolution - 4\etproject\bin\roslyn\VBCSCompiler.exe.config
+C:\App\etsolution - 4\etproject\bin\Antlr3.Runtime.dll
+C:\App\etsolution - 4\etproject\bin\EntityFramework.dll
+C:\App\etsolution - 4\etproject\bin\EntityFramework.SqlServer.dll
+C:\App\etsolution - 4\etproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\App\etsolution - 4\etproject\bin\Microsoft.Web.Infrastructure.dll
+C:\App\etsolution - 4\etproject\bin\Newtonsoft.Json.dll
+C:\App\etsolution - 4\etproject\bin\System.Web.Helpers.dll
+C:\App\etsolution - 4\etproject\bin\System.Web.Mvc.dll
+C:\App\etsolution - 4\etproject\bin\System.Web.Optimization.dll
+C:\App\etsolution - 4\etproject\bin\System.Web.Razor.dll
+C:\App\etsolution - 4\etproject\bin\System.Web.WebPages.Deployment.dll
+C:\App\etsolution - 4\etproject\bin\System.Web.WebPages.dll
+C:\App\etsolution - 4\etproject\bin\System.Web.WebPages.Razor.dll
+C:\App\etsolution - 4\etproject\bin\WebGrease.dll
+C:\App\etsolution - 4\etproject\bin\EntityFramework.xml
+C:\App\etsolution - 4\etproject\bin\EntityFramework.SqlServer.xml
+C:\App\etsolution - 4\etproject\bin\System.Web.Helpers.xml
+C:\App\etsolution - 4\etproject\bin\System.Web.Mvc.xml
+C:\App\etsolution - 4\etproject\bin\System.Web.Optimization.xml
+C:\App\etsolution - 4\etproject\bin\System.Web.Razor.xml
+C:\App\etsolution - 4\etproject\bin\System.Web.WebPages.xml
+C:\App\etsolution - 4\etproject\bin\System.Web.WebPages.Deployment.xml
+C:\App\etsolution - 4\etproject\bin\System.Web.WebPages.Razor.xml
+C:\App\etsolution - 4\etproject\bin\Newtonsoft.Json.xml
+C:\App\etsolution - 4\etproject\bin\Antlr3.Runtime.pdb
+C:\App\etsolution - 4\etproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\App\etsolution - 4\etproject\obj\Debug\etproject.csproj.CopyComplete
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\etproject.dll.config
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\etproject.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\etproject.pdb
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\csc.exe
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\csc.exe.config
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\csc.rsp
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\csi.exe
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\csi.exe.config
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\csi.rsp
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.AppContext.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Collections.Immutable.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Console.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.IO.Compression.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.IO.FileSystem.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Net.Http.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Net.Sockets.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.ValueTuple.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Xml.XPath.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\vbc.exe
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\vbc.exe.config
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\vbc.rsp
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\VBCSCompiler.exe
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\VBCSCompiler.exe.config
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Antlr3.Runtime.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\EntityFramework.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\EntityFramework.SqlServer.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Newtonsoft.Json.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Helpers.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Mvc.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Optimization.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Razor.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.WebPages.Deployment.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.WebPages.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.WebPages.Razor.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\WebGrease.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\EntityFramework.xml
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\EntityFramework.SqlServer.xml
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Helpers.xml
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Mvc.xml
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Optimization.xml
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Razor.xml
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.WebPages.xml
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.WebPages.Deployment.xml
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.WebPages.Razor.xml
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Newtonsoft.Json.xml
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Antlr3.Runtime.pdb
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\obj\Debug\etproject.csprojAssemblyReference.cache
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\obj\Debug\etproject.csproj.CoreCompileInputs.cache
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\obj\Debug\etproject.csproj.CopyComplete
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\obj\Debug\etproject.dll
+C:\Work\Udemy_2020\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\obj\Debug\etproject.pdb
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\etproject.dll.config
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\etproject.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\etproject.pdb
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\csc.exe
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\csc.exe.config
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\csc.rsp
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\csi.exe
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\csi.exe.config
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\csi.rsp
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.AppContext.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Collections.Immutable.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Console.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.IO.Compression.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.IO.FileSystem.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Net.Http.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Net.Sockets.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.ValueTuple.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Xml.XPath.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\vbc.exe
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\vbc.exe.config
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\vbc.rsp
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\VBCSCompiler.exe
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\roslyn\VBCSCompiler.exe.config
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Antlr3.Runtime.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\EntityFramework.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\EntityFramework.SqlServer.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Microsoft.Web.Infrastructure.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Newtonsoft.Json.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Helpers.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Mvc.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Optimization.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Razor.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.WebPages.Deployment.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.WebPages.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.WebPages.Razor.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\WebGrease.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\EntityFramework.xml
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\EntityFramework.SqlServer.xml
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Helpers.xml
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Mvc.xml
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Optimization.xml
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.Razor.xml
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.WebPages.xml
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.WebPages.Deployment.xml
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\System.Web.WebPages.Razor.xml
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Newtonsoft.Json.xml
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Antlr3.Runtime.pdb
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\obj\Debug\etproject.csprojAssemblyReference.cache
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\obj\Debug\etproject.csproj.CoreCompileInputs.cache
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\obj\Debug\etproject.csproj.CopyComplete
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\obj\Debug\etproject.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\obj\Debug\etproject.pdb
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Udemy\7. AZ-204\Develop Azure compute solutions\Lab - Azure Web App - SQL Server\etsolution - 4\etproject\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\etproject.dll.config
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\etproject.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\etproject.pdb
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\csc.exe
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\csc.exe.config
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\csc.rsp
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\csi.exe
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\csi.exe.config
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\csi.rsp
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.AppContext.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Console.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.IO.Compression.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Net.Http.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.ValueTuple.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\vbc.exe
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\vbc.exe.config
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\vbc.rsp
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\VBCSCompiler.exe
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\Antlr3.Runtime.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\EntityFramework.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\EntityFramework.SqlServer.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\Newtonsoft.Json.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\System.Web.Helpers.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\System.Web.Mvc.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\System.Web.Optimization.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\System.Web.Razor.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\System.Web.WebPages.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\System.Web.WebPages.Razor.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\WebGrease.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\EntityFramework.xml
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\EntityFramework.SqlServer.xml
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\System.Web.Helpers.xml
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\System.Web.Mvc.xml
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\System.Web.Optimization.xml
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\System.Web.Razor.xml
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\System.Web.WebPages.xml
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\System.Web.WebPages.Razor.xml
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\Newtonsoft.Json.xml
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\Antlr3.Runtime.pdb
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\obj\Debug\etproject.csprojAssemblyReference.cache
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\obj\Debug\etproject.csproj.CoreCompileInputs.cache
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\obj\Debug\etproject.csproj.CopyComplete
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\obj\Debug\etproject.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\etsolution - 4\etproject\obj\Debug\etproject.pdb

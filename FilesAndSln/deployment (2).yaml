@@ -1,0 +1,26 @@
+apiVersion: '2018-10-01'
+location: eastus
+name: mycontainernew
+properties:
+  containers:
+  - name: dotnetappnew
+    properties:
+      image: acrburnley.azurecr.io/dotnetapp
+      resources:
+        requests:
+          cpu: 1
+          memoryInGb: 1.5
+      volumeMounts:
+      - mountPath: /mounts/secrets
+        name: volumesecret
+  osType: Linux
+  imageRegistryCredentials:
+    - server: acrburnley.azurecr.io
+      username: acrburnley
+      password: 0q+gvAXaFkogNw8JN8I4LI1knL2wy828
+  volumes:
+  - name: volumesecret
+    secret:
+      storage-connection: RGVmYXVsdEVuZHBvaW50c1Byb3RvY29sPWh0dHBzO0FjY291bnROYW1lPXN0b3JidXJubGV5O0FjY291bnRLZXk9dWdjTGtBaDhJUy9zNkQ1SktQRTRjUUkxbmthdHpmN3FrWGkxTEEwM3Q5WkgyQXVDWGY3WVJud2t0cWRCdzVMYjVoWU9JMk5oZVpKcWFDblladGRLUHc9PTtFbmRwb2ludFN1ZmZpeD1jb3JlLndpbmRvd3MubmV0
+tags: null
+type: Microsoft.ContainerInstance/containerGroups

@@ -1,0 +1,9 @@
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\publish\blobproject.exe
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\publish\blobproject.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\publish\blobproject.deps.json
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\publish\blobproject.runtimeconfig.json
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\publish\blobproject.pdb
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\publish\Azure.Core.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\publish\Azure.Storage.Blobs.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\publish\Azure.Storage.Common.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\publish\Microsoft.Bcl.AsyncInterfaces.dll

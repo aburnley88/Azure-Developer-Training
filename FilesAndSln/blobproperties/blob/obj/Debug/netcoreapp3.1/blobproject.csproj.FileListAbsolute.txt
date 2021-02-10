@@ -1,0 +1,36 @@
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\bin\Debug\netcoreapp3.1\blobproject.exe
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\bin\Debug\netcoreapp3.1\blobproject.deps.json
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\bin\Debug\netcoreapp3.1\blobproject.dll
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\bin\Debug\netcoreapp3.1\blobproject.pdb
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.dll
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.pdb
+C:\Udemy\7. AZ-204\new\Lab - Azure Blob - Properties and metadata\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.genruntimeconfig.cache
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\bin\Debug\netcoreapp3.1\blobproject.exe
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\bin\Debug\netcoreapp3.1\blobproject.deps.json
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\bin\Debug\netcoreapp3.1\blobproject.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\bin\Debug\netcoreapp3.1\blobproject.pdb
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.pdb
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\blobproperties\blob\obj\Debug\netcoreapp3.1\blobproject.genruntimeconfig.cache

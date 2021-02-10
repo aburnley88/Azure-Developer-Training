@@ -1,0 +1,54 @@
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.exe
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.deps.json
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.dll
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.pdb
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.dll
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.pdb
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.genruntimeconfig.cache
+C:\App\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\blobproject.exe
+C:\App\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\blobproject.deps.json
+C:\App\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\App\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\App\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\blobproject.dll
+C:\App\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\blobproject.pdb
+C:\App\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\App\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\App\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\App\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\App\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\App\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\App\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\App\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\App\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\App\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.dll
+C:\App\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.pdb
+C:\App\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.genruntimeconfig.cache
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\blobproject.exe
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\blobproject.deps.json
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\blobproject.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\blobproject.pdb
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.dll
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.pdb
+C:\Users\aburn\OneDrive\Documents\AZ204_Udemy\Container instance blob - secret\blob\obj\Debug\netcoreapp3.1\blobproject.genruntimeconfig.cache
